@@ -14,7 +14,7 @@ Analyzing Results: Viewing real-time load test results via a web interface.
 Understanding Component Connections: Learning how Lambda, API Gateway, and DynamoDB work together seamlessly.
 Impact of Different Configurations: Demonstrating how changing Lambda configurations affects API performance.
 Read the Full Article
-For detailed instructions and insights, please refer to the full article on LinkedIn: Locust Load Testing with AWS Serverless: Building Infrastructure with Terraform
+For detailed instructions and insights, please refer to the full article on LinkedIn: https://www.linkedin.com/pulse/article-2-load-testing-aws-serverless-locust-approach-valentin-wbwve/?trackingId=EU3%2FYRCOR8G%2Bo%2Fid%2Fn99aw%3D%3D
 
 Repository Contents
 main.tf: Defines the primary configuration for the infrastructure, including the resources and their properties.
